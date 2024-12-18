@@ -7,3 +7,6 @@ How to:
 
 You can download the main.js file and edit the `@match *://*/*` to whatever address/sit you use it on, otherwise it'll be active on all sites which is unneeded.  
 I wrote it for use with SwarmUI, works there and in ComfyUI nodes with a textarea.
+
+![image](https://github.com/user-attachments/assets/a1b58ac5-1deb-4484-b2fc-7f2147376a52)
+
